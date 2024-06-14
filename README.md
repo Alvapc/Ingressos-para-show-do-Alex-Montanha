@@ -1,5 +1,4 @@
-Integrantes: Álvaro Pereira de Carvalho
-Pedro Lucas dos Santos Kaiser
+Integrantes: Álvaro Pereira de Carvalho, Pedro Lucas dos Santos Kaiser
 
 a criação de um sistema de gerenciamento de compra de ingressos para o Planeta Brasil. Este sistema seria projetado para gerenciar a compra de ingressos e controlar quais tipos de ingresso foram vendidos e a sua quantidade. O sistema deve ser capaz de realizar as seguintes funções:
 
